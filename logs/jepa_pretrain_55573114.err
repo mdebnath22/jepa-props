@@ -1,0 +1,27 @@
+=====================================================================
+Loaded: mamba 2.6.2
+
+Usage example:
+$ mamba create -n myenv -c conda-forge python=3 <package_name>
+$ source activate myenv
+
+Only run "pip install" after activating an environment.
+Running pip without activating an environment is known to cause issues.
+
+To list available environments:
+$ mamba info --envs
+
+More info: docs.rc.asu.edu/python
+
+=====================================================================
+     
+
+CondaError: Run 'conda init' before 'conda activate'
+
+/var/spool/slurmd/job55573114/slurm_script: line 23: cd: /scratch/mroycho1/jepa_props: No such file or directory
+Traceback (most recent call last):
+  File "/scratch/mroycho1/mujoco/jepa_props/main.py", line 19, in <module>
+    import yaml
+  File "/etc/python/sitecustomize.py", line 117, in _import
+    mod = _original_import(name, globals, locals, fromlist, level)
+ModuleNotFoundError: No module named 'yaml'

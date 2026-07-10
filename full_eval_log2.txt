@@ -1,0 +1,145 @@
+2026-06-30 10:03:22,775 INFO 
+============================================================
+Task: MountainCarContinuous-v0 (param_dim=3)
+============================================================
+2026-06-30 10:03:22,932 INFO   cmaes seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:23,061 INFO   cmaes seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:23,203 INFO   cmaes seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:23,372 INFO   cmaes seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:23,526 INFO   cmaes seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:23,688 INFO   pso seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:23,952 INFO   pso seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:24,142 INFO   pso seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:24,321 INFO   pso seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:24,492 INFO   pso seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:24,630 INFO   bayesopt seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:24,754 INFO   bayesopt seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:24,916 INFO   bayesopt seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:25,228 INFO   bayesopt seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:25,376 INFO   bayesopt seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:25,629 INFO   openai_es seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:25,792 INFO   openai_es seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:25,962 INFO   openai_es seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:26,203 INFO   openai_es seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:26,342 INFO   openai_es seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:26,516 INFO   mu_plus_lambda_es seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:26,667 INFO   mu_plus_lambda_es seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:26,902 INFO   mu_plus_lambda_es seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:27,032 INFO   mu_plus_lambda_es seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:27,177 INFO   mu_plus_lambda_es seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:27,352 INFO   tabu_search seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:27,489 INFO   tabu_search seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:27,671 INFO   tabu_search seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:27,966 INFO   tabu_search seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:28,160 INFO   tabu_search seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:28,378 INFO   cem seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:28,540 INFO   cem seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:28,698 INFO   cem seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:28,839 INFO   cem seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:28,999 INFO   cem seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:29,182 INFO   random seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:29,352 INFO   random seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:29,613 INFO   random seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:29,766 INFO   random seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:29,952 INFO   random seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:30,949 INFO Summary saved: results/full_eval/summary_MountainCarContinuous-v0.txt
+2026-06-30 10:03:30,949 INFO 
+============================================================
+Task: InvertedPendulum-v4 (param_dim=5)
+============================================================
+2026-06-30 10:03:30,971 INFO   cmaes seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:31,048 INFO   cmaes seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:31,136 INFO   cmaes seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:31,215 INFO   cmaes seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:31,292 INFO   cmaes seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:31,406 INFO   pso seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:31,484 INFO   pso seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:31,570 INFO   pso seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:31,649 INFO   pso seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:31,726 INFO   pso seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:31,807 INFO   bayesopt seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:32,001 INFO   bayesopt seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:03:32,082 INFO   bayesopt seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:04:41,449 INFO   bayesopt seed=3: best=285.80 mean=11.75
+2026-06-30 10:06:00,391 INFO   bayesopt seed=4: best=1000.00 mean=116.15
+2026-06-30 10:06:10,417 INFO   openai_es seed=0: best=145.40 mean=54.78
+2026-06-30 10:06:15,227 INFO   openai_es seed=1: best=21.80 mean=8.21
+2026-06-30 10:06:21,686 INFO   openai_es seed=2: best=55.40 mean=27.14
+Summary for MountainCarContinuous-v0
+============================================================
+
+Method                           Mean±Std           Best (95% CI boot)
+----------------------------------------------------------------------
+cmaes                     -6.89±4.30          -0.00 [-0.0, -0.0]
+pso                        2.29±18.32         19.80 [-0.0, 99.1]
+bayesopt                 -13.60±6.72          78.47 [80.8, 82.0]
+openai_es                -31.29±34.78        -20.08 [-0.2, -0.0]
+mu_plus_lambda_es        -16.43±3.61          -0.01 [-0.0, -0.0]
+tabu_search              -11.56±5.88          19.49 [-0.0, 97.5]
+cem                       -4.97±0.97          -0.00 [-0.0, -0.0]
+random                   -52.97±1.72          34.56 [36.1, 62.9]
+
+Wall-clock profile (rollout vs optimizer time):
+Method                     Rollout (s)  Optimizer (s)  Total (s)  Rollout %
+---------------------------------------------------------------------------
+cmaes                              nan            nan        nan       nan%
+pso                                nan            nan        nan       nan%
+bayesopt                           nan            nan        nan       nan%
+openai_es                          nan            nan        nan       nan%
+mu_plus_lambda_es                  nan            nan        nan       nan%
+tabu_search                        nan            nan        nan       nan%
+cem                                nan            nan        nan       nan%
+random                             nan            nan        nan       nan%
+
+Significance tests vs. best method (pso):
+  pso vs cmaes: p=0.4375 (wilcoxon_signed_rank)
+  pso vs bayesopt: p=0.3125 (wilcoxon_signed_rank)
+  pso vs openai_es: p=0.1250 (wilcoxon_signed_rank)
+  pso vs mu_plus_lambda_es: p=0.0625 (wilcoxon_signed_rank)
+  pso vs tabu_search: p=0.1875 (wilcoxon_signed_rank)
+  pso vs cem: p=1.0000 (wilcoxon_signed_rank)
+  pso vs random: p=0.0625 (wilcoxon_signed_rank)
+
+After Bonferroni correction:
+  cmaes: not significant (corrected alpha=0.0071)
+  bayesopt: not significant (corrected alpha=0.0071)
+  openai_es: not significant (corrected alpha=0.0071)
+  mu_plus_lambda_es: not significant (corrected alpha=0.0071)
+  tabu_search: not significant (corrected alpha=0.0071)
+  cem: not significant (corrected alpha=0.0071)
+  random: not significant (corrected alpha=0.0071)
+Traceback (most recent call last):
+  File "/scratch/mroycho1/mujoco/jepa_props/run_full_eval.py", line 285, in <module>
+    main()
+    ~~~~^^
+  File "/scratch/mroycho1/mujoco/jepa_props/run_full_eval.py", line 277, in main
+    run_baselines_mode(args)
+    ~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/scratch/mroycho1/mujoco/jepa_props/run_full_eval.py", line 104, in run_baselines_mode
+    r = fn(task, param_dim, seed, args.max_iterations,
+           n_episodes=args.n_episodes)
+  File "/scratch/mroycho1/mujoco/jepa_props/baselines.py", line 242, in run_openai_es
+    r = _timed_rollout(env_name, candidate, n_episodes,
+                        seed + iteration, timer)
+  File "/scratch/mroycho1/mujoco/jepa_props/baselines.py", line 32, in _timed_rollout
+    r = rollout_policy(env_name, theta, n_episodes, seed)
+  File "/scratch/mroycho1/mujoco/jepa_props/envs.py", line 168, in rollout_policy
+    env = gym.make(cfg["gym_id"], **env_kwargs)
+  File "/home/mroycho1/.conda/envs/mdebnath/lib/python3.14/site-packages/gymnasium/envs/registration.py", line 734, in make
+    env = env_creator(**env_spec_kwargs)
+  File "/home/mroycho1/.conda/envs/mdebnath/lib/python3.14/site-packages/gymnasium/envs/mujoco/inverted_pendulum_v4.py", line 28, in __init__
+    MujocoEnv.__init__(
+    ~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/home/mroycho1/.conda/envs/mdebnath/lib/python3.14/site-packages/gymnasium/envs/mujoco/mujoco_env.py", line 77, in __init__
+    self.model, self.data = self._initialize_simulation()
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/mroycho1/.conda/envs/mdebnath/lib/python3.14/site-packages/gymnasium/envs/mujoco/mujoco_env.py", line 122, in _initialize_simulation
+    model = mujoco.MjModel.from_xml_path(self.fullpath)
+KeyboardInterrupt

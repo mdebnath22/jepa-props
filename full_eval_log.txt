@@ -1,0 +1,124 @@
+nohup: ignoring input
+2026-06-30 09:25:15,837 INFO 
+============================================================
+Task: MountainCarContinuous-v0 (param_dim=3)
+============================================================
+2026-06-30 09:25:15,839 INFO   cmaes seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:15,893 INFO   cmaes seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:15,961 INFO   cmaes seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:16,045 INFO   cmaes seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:16,162 INFO   cmaes seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:16,283 INFO   pso seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:16,344 INFO   pso seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:16,432 INFO   pso seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:16,519 INFO   pso seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:16,598 INFO   pso seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:16,640 INFO   bayesopt seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:16,683 INFO   bayesopt seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:16,746 INFO   bayesopt seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:16,868 INFO   bayesopt seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:16,880 INFO   bayesopt seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:16,956 INFO   openai_es seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:17,018 INFO   openai_es seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:17,042 INFO   openai_es seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:17,162 INFO   openai_es seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:17,300 INFO   openai_es seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:17,347 INFO   mu_plus_lambda_es seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:17,429 INFO   mu_plus_lambda_es seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:17,482 INFO   mu_plus_lambda_es seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:17,540 INFO   mu_plus_lambda_es seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:17,606 INFO   mu_plus_lambda_es seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:17,739 INFO   tabu_search seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:17,813 INFO   tabu_search seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:17,875 INFO   tabu_search seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:17,936 INFO   tabu_search seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:17,972 INFO   tabu_search seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:17,974 INFO   cem seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:18,034 INFO   cem seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:18,036 INFO   cem seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:18,055 INFO   cem seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:18,084 INFO   cem seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:18,128 INFO   random seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:18,130 INFO   random seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:18,176 INFO   random seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:18,244 INFO   random seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:18,245 INFO   random seed=4: SKIPPED (already exists, use --force_rerun to redo)
+/scratch/mroycho1/mujoco/jepa_props/eval_protocol.py:54: RuntimeWarning: Mean of empty slice
+  "mean_rollout_s": float(np.nanmean(rollout_s)),
+/scratch/mroycho1/mujoco/jepa_props/eval_protocol.py:55: RuntimeWarning: Mean of empty slice
+  "mean_optimizer_s": float(np.nanmean(optimizer_s)),
+/scratch/mroycho1/mujoco/jepa_props/eval_protocol.py:56: RuntimeWarning: Mean of empty slice
+  "mean_total_s": float(np.nanmean(total_s)),
+/scratch/mroycho1/mujoco/jepa_props/eval_protocol.py:59: RuntimeWarning: Mean of empty slice
+  if np.nanmean(total_s) > 0 else float("nan")
+2026-06-30 09:25:18,752 INFO Summary saved: results/full_eval/summary_MountainCarContinuous-v0.txt
+2026-06-30 09:25:18,752 INFO 
+============================================================
+Task: InvertedPendulum-v4 (param_dim=5)
+============================================================
+2026-06-30 09:25:18,752 INFO   cmaes seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:18,754 INFO   cmaes seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:18,787 INFO   cmaes seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:18,868 INFO   cmaes seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:18,955 INFO   cmaes seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:19,009 INFO   pso seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:19,020 INFO   pso seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:19,035 INFO   pso seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:19,060 INFO   pso seed=3: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:19,119 INFO   pso seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:25:19,139 INFO   bayesopt seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 09:40:34,901 INFO   bayesopt seed=1: best=403.00 mean=11.92
+2026-06-30 09:55:26,135 INFO   bayesopt seed=2: best=1000.00 mean=270.26
+2026-06-30 10:10:09,626 INFO   bayesopt seed=3: best=285.80 mean=17.82
+2026-06-30 10:10:09,637 INFO   bayesopt seed=4: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:10:09,714 INFO   openai_es seed=0: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:10:09,794 INFO   openai_es seed=1: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:10:09,871 INFO   openai_es seed=2: SKIPPED (already exists, use --force_rerun to redo)
+2026-06-30 10:10:14,575 INFO   openai_es seed=3: best=13.20 mean=6.84
+2026-06-30 10:10:21,125 INFO   openai_es seed=4: best=63.00 mean=30.77
+2026-06-30 10:10:28,806 INFO   mu_plus_lambda_es seed=0: best=201.20 mean=38.07
+2026-06-30 10:10:37,147 INFO   mu_plus_lambda_es seed=1: best=287.40 mean=43.82
+2026-06-30 10:10:43,142 INFO   mu_plus_lambda_es seed=2: best=87.60 mean=24.55
+2026-06-30 10:10:57,497 INFO   mu_plus_lambda_es seed=3: best=986.60 mean=88.43
+2026-06-30 10:11:05,294 INFO   mu_plus_lambda_es seed=4: best=190.40 mean=40.42
+2026-06-30 10:11:15,960 INFO   tabu_search seed=0: best=248.20 mean=61.61
+2026-06-30 10:11:24,274 INFO   tabu_search seed=1: best=526.40 mean=44.05
+2026-06-30 10:11:29,966 INFO   tabu_search seed=2: best=51.60 mean=22.78
+2026-06-30 10:11:35,460 INFO   tabu_search seed=3: best=60.60 mean=19.90
+2026-06-30 10:12:10,784 INFO   tabu_search seed=4: best=1000.00 mean=237.52
+2026-06-30 10:12:23,482 INFO   cem seed=0: best=117.40 mean=76.54
+2026-06-30 10:13:30,140 INFO   cem seed=1: best=816.60 mean=459.19
+2026-06-30 10:15:16,459 INFO   cem seed=2: best=1000.00 mean=742.36
+2026-06-30 10:17:02,783 INFO   cem seed=3: best=1000.00 mean=766.85
+2026-06-30 10:17:23,725 INFO   cem seed=4: best=224.80 mean=136.88
+2026-06-30 10:17:28,553 INFO   random seed=0: best=133.60 mean=9.40
+2026-06-30 10:17:33,152 INFO   random seed=1: best=74.20 mean=8.61
+2026-06-30 10:17:37,806 INFO   random seed=2: best=57.20 mean=7.71
+2026-06-30 10:17:42,551 INFO   random seed=3: best=88.80 mean=8.03
+2026-06-30 10:17:47,202 INFO   random seed=4: best=83.40 mean=8.77
+/scratch/mroycho1/mujoco/jepa_props/eval_protocol.py:54: RuntimeWarning: Mean of empty slice
+  "mean_rollout_s": float(np.nanmean(rollout_s)),
+/scratch/mroycho1/mujoco/jepa_props/eval_protocol.py:55: RuntimeWarning: Mean of empty slice
+  "mean_optimizer_s": float(np.nanmean(optimizer_s)),
+/scratch/mroycho1/mujoco/jepa_props/eval_protocol.py:56: RuntimeWarning: Mean of empty slice
+  "mean_total_s": float(np.nanmean(total_s)),
+/scratch/mroycho1/mujoco/jepa_props/eval_protocol.py:59: RuntimeWarning: Mean of empty slice
+  if np.nanmean(total_s) > 0 else float("nan")
+2026-06-30 10:17:47,964 INFO Summary saved: results/full_eval/summary_InvertedPendulum-v4.txt
+2026-06-30 10:17:47,964 INFO 
+============================================================
+Task: InvertedDoublePendulum-v4 (param_dim=12)
+============================================================
+2026-06-30 10:17:58,962 INFO   cmaes seed=0: best=199.52 mean=83.97
+2026-06-30 10:18:04,422 INFO   cmaes seed=1: best=147.72 mean=87.03
+2026-06-30 10:18:11,231 INFO   cmaes seed=2: best=451.88 mean=166.17
+2026-06-30 10:18:17,439 INFO   cmaes seed=3: best=240.45 mean=114.61
+2026-06-30 10:18:23,795 INFO   cmaes seed=4: best=283.90 mean=109.67
+2026-06-30 10:18:29,779 INFO   pso seed=0: best=161.05 mean=113.59
+2026-06-30 10:18:36,064 INFO   pso seed=1: best=201.26 mean=130.73
+2026-06-30 10:18:42,182 INFO   pso seed=2: best=211.83 mean=118.80
+2026-06-30 10:18:47,971 INFO   pso seed=3: best=214.07 mean=104.33
+2026-06-30 10:18:54,078 INFO   pso seed=4: best=198.90 mean=117.91
+2026-06-30 11:25:44,478 INFO   bayesopt seed=0: best=156.53 mean=72.08
+2026-06-30 12:10:44,318 INFO   bayesopt seed=1: best=158.57 mean=71.90
+2026-06-30 12:58:08,068 INFO   bayesopt seed=2: best=163.65 mean=63.67
